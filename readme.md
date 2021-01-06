@@ -1,1 +1,1 @@
-# A test repo for Deno & Skypack
+# A test repo for different technologies
